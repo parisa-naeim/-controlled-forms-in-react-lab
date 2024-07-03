@@ -30,7 +30,7 @@ const Bookshelf = () =>{
       <label htmlFor='author'>Author</label>
       <input id='author' name='author' value={newBook.author} onChange={handleInputChange}/>
 
-      <button type='submit'>SUbmit</button>
+      <button type='submit'>Submit</button>
     </form>
   </div>
   <div className="bookCardsDiv">

@@ -39,11 +39,11 @@ input {
 
 .bookshelfDiv {
   padding: 10px;
-  width: 80%;
+  /* width: 80%; */
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
-  align-items: center;
+  align-items: start;
 }
 
 .formDiv {
@@ -58,7 +58,7 @@ input {
 
 .bookCardsDiv {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   flex-wrap: wrap;
   width: 90%;
   margin-top: 20px;
